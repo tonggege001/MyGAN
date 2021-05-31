@@ -17,5 +17,5 @@ The following is virtual people generated from basic GAN(DCGAN).
 The following is font2font. Without categorical loss, the model can only generated just one style. It is similar to auto-encoder. This model is just a demo which doesn't show the power of cGAN.
 ![](images/2.png)
 
-The following is edge2dog which is similay to edge2cat. I take patchGAN strategy and L1 regularization with 0.1 penalty. The right corner is the original images, beside which is the generated dog by my model.
+The following is edge2dog which is similay to edge2cat. I take patchGAN strategy and L1 regularization with 0.1 penalty. The right corner is the original images, beside which the dog is generated from my model.
 ![](images/3.png)
